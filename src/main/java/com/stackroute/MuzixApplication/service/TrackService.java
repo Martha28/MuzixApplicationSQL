@@ -1,9 +1,9 @@
-package com.stackroute.lombokDemo.service;
+package com.stackroute.MuzixApplication.service;
 
-import com.stackroute.lombokDemo.domain.Track;
-import com.stackroute.lombokDemo.exceptions.NullValuesPassed;
-import com.stackroute.lombokDemo.exceptions.TrackAlreadyExists;
-import com.stackroute.lombokDemo.exceptions.TrackDoesNotExists;
+import com.stackroute.MuzixApplication.domain.Track;
+import com.stackroute.MuzixApplication.exceptions.NullValuesPassed;
+import com.stackroute.MuzixApplication.exceptions.TrackAlreadyExists;
+import com.stackroute.MuzixApplication.exceptions.TrackDoesNotExists;
 
 
 import java.util.List;

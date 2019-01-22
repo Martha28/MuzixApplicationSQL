@@ -1,8 +1,7 @@
-/*
-package com.stackroute.lombokDemo.seeddata;
+package com.stackroute.MuzixApplication.seeddata;
 
-import com.stackroute.lombokDemo.domain.Track;
-import com.stackroute.lombokDemo.repository.TrackRepository;
+import com.stackroute.MuzixApplication.domain.Track;
+import com.stackroute.MuzixApplication.repository.TrackRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.annotation.Configuration;
@@ -36,4 +35,3 @@ public class SeedDataApplnListener  implements ApplicationListener<ContextRefres
 
     }
 }
-*/

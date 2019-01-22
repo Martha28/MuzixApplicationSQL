@@ -1,11 +1,11 @@
-package com.stackroute.lombokDemo.service;
+package com.stackroute.MuzixApplication.service;
 
-import com.stackroute.lombokDemo.domain.Track;
-import com.stackroute.lombokDemo.exceptions.NullValuesPassed;
-import com.stackroute.lombokDemo.exceptions.TrackAlreadyExists;
-import com.stackroute.lombokDemo.exceptions.TrackDoesNotExists;
+import com.stackroute.MuzixApplication.domain.Track;
+import com.stackroute.MuzixApplication.exceptions.NullValuesPassed;
+import com.stackroute.MuzixApplication.exceptions.TrackAlreadyExists;
+import com.stackroute.MuzixApplication.exceptions.TrackDoesNotExists;
 
-import com.stackroute.lombokDemo.repository.TrackRepository;
+import com.stackroute.MuzixApplication.repository.TrackRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

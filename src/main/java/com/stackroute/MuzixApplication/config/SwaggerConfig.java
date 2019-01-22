@@ -1,4 +1,4 @@
-package com.stackroute.lombokDemo.config;
+package com.stackroute.MuzixApplication.config;
 
 
 import org.springframework.context.annotation.Bean;

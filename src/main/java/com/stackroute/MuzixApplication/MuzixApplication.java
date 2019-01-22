@@ -1,4 +1,4 @@
-package com.stackroute.lombokDemo;
+package com.stackroute.MuzixApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

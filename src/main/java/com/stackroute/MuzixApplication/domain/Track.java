@@ -1,4 +1,4 @@
-package com.stackroute.lombokDemo.domain;
+package com.stackroute.MuzixApplication.domain;
 
 import lombok.*;
 

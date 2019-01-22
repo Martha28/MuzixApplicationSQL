@@ -1,8 +1,8 @@
-package com.stackroute.lombokDemo.Controller;
+package com.stackroute.MuzixApplication.Controller;
 
-import com.stackroute.lombokDemo.exceptions.NullValuesPassed;
-import com.stackroute.lombokDemo.exceptions.TrackAlreadyExists;
-import com.stackroute.lombokDemo.exceptions.TrackDoesNotExists;
+import com.stackroute.MuzixApplication.exceptions.NullValuesPassed;
+import com.stackroute.MuzixApplication.exceptions.TrackAlreadyExists;
+import com.stackroute.MuzixApplication.exceptions.TrackDoesNotExists;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

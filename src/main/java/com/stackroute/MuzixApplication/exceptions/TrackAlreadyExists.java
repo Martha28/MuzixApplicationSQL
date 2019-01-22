@@ -1,4 +1,4 @@
-package com.stackroute.lombokDemo.exceptions;
+package com.stackroute.MuzixApplication.exceptions;
 
 public class TrackAlreadyExists extends  Exception{
     private String message;

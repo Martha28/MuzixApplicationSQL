@@ -1,4 +1,4 @@
-package com.stackroute.lombokDemo;
+package com.stackroute.MuzixApplication;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
